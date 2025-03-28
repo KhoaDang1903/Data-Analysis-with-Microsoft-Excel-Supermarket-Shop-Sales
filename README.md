@@ -1,3 +1,11 @@
+![image](https://github.com/user-attachments/assets/0cda18b0-7d59-4a68-bb86-06014dcd170d)
+
+
+
+
+
+
+
 # 📊 Sales Dashboard - Supermarket Shop
 
 This dashboard provides a comprehensive overview of sales performance for a supermarket. Below is a breakdown of the key insights that can be extracted from the dashboard.
@@ -52,7 +60,3 @@ This dashboard provides a comprehensive overview of sales performance for a supe
 
 - Analyze the proportion of transactions via cash and online payment methods.
 - Leverage this data to optimize the checkout process and promote safer, more efficient payment options.
-
----
-
-> 📌 This dashboard serves as a decision-making tool for marketing, sales, and inventory strategies in the retail environment.
